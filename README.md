@@ -1,4 +1,4 @@
-# Dong Learns To Code Series!
+# [DLTC] Dong Learns To Code Series!
 
 Thanks for visiting my humble github repository where I practice how to code.
 The first series is to build an Agentic.AI to conduct following procedure: 
