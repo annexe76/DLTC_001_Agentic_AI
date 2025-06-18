@@ -1,4 +1,15 @@
-# APRA CPS230 Compliance Assistant
+# Dong Learns To Code Series!
+
+Thanks for visiting my humble github repository where I practice how to code.
+The first series is to build an Agentic.AI to conduct following procedure: 
+
+  1. Extract data from a pdf file - APRA CPS230
+  2. Build RAG using extracted data
+  3. Create vector
+  4. Using LangChain to orchestrate agent
+  5. Streamlit to facilitate UX
+
+## APRA CPS230 Compliance Assistant
 
 This repository contains a proof-of_concept chatbot application that helps financial institutions understand
 and implement the requirements of the Australian Prudential Regulation Authority's (APRA) Predential Standard CPS230
